@@ -1,0 +1,72 @@
+#conteudo {
+    padding: 100px 0px;
+}
+
+.background {
+    background-color: rgb(197, 197, 197);
+}
+
+.back {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(175, 175, 175);
+}
+
+.tabela1 {
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 128, 0, 0.452);
+}
+.tabela2 {
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 0, 0, 0.452);
+}
+
+.fone {
+    cursor: pointer;
+}
+
+.folder {
+    background-color: rgb(175, 175, 175);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+.news {
+    font-size: 20px;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+address {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+
+
